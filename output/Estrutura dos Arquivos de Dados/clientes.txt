@@ -1,0 +1,4 @@
+Código;Nome;Endereço;Telefone
+1;João Silva;Rua A, 123;9999-8888
+2;Maria Santos;Av. B, 456;9876-5432
+3;Carlos Oliveira;Travessa C, 789;8765-4321

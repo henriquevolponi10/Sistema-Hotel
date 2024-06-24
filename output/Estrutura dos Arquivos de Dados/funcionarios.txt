@@ -1,0 +1,4 @@
+Código;Nome;Telefone;Cargo;Salário
+1;Ana Souza;1111-2222;Recepcionista;2500.00
+2;Pedro Almeida;3333-4444;Gerente;5000.00
+3;Mariana Costa;5555-6666;Camareira;2000.00
